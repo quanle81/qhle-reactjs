@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          lhqcomputer
+          Hoc React qhle81
         </a>
       </header>
     </div>
